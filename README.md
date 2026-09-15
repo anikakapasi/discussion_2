@@ -11,5 +11,5 @@ cargo run
 bobby
 
 ## Members
+- anika and ines
 
-- anika
